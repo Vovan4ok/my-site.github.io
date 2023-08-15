@@ -1,2 +1,2 @@
 # my-site.github.io
-My final site on HTMl, CSS block 
+My final site on HTML, CSS block 
